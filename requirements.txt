@@ -1,5 +1,4 @@
 streamlit
 huggingface_hub
-llama-cpp-python
-
-
+llama-cpp-python==0.2.19; platform_system == "Linux"
+llama-cpp-python==0.2.19; platform_system == "Windows"
